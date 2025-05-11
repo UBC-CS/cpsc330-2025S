@@ -2,7 +2,7 @@
 
 ## General guidelines
 - **Assignment grading concerns**: All grading concerns and challenges related to assignments must be reported opening a regrade request on Gradescope
-- Exam grading concerns: All grading concerns and challenges related to the midterm must be reported on Piazza by posting it to the instructors. You must select the `grading_concerns` folder when you post your message. If you do not do it, we might not see your message. Clearly state your name, student number, the assessment, and your concern.
+- Exam grading concerns: All grading concerns and challenges related to the midterm must be reported on the course Forum by posting it to the instructors. You must select the `grading_concerns` folder when you post your message. If you do not do it, we might not see your message. Clearly state your name, student number, the assessment, and your concern.
 
 ## Grading concerns: time limit
 If you perceive a problem with your homework or exam grade, you have **one week** to raise a concern from the time that your grades were posted. After that, your grade is final.

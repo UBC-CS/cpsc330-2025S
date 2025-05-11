@@ -1,5 +1,7 @@
 # Syllabus
 
+Welcome to CPSC 330! Below is the course syllabus which contains much of the important details in the course.
+
 ## Course description
 
 Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.
@@ -17,34 +19,27 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Tutorials**:
 
-| Section      | Day      | Time                | Location               |
-|--------------|----------|---------------------|------------------------|
-| CPSC 330 T2A | Friday   | 9:00 - 10:00 AM     | ORCH-Room 4018
-| CPSC 330 T2B | Friday   | 10:00 - 11:00 AM    | ORCH-Room 3018         |
-| CPSC 330 T2C | Friday   | 12:00 - 01:00 PM    | DMP-Room 201           |
-| CPSC 330 T2D | Friday   | 01:00 - 02:00 PM    | DMP-Room 201           |
-| CPSC 330 T2E | Friday   | 03:00 - 04:00 PM    | DMP-Room 201           |
-| CPSC 330 T2F | Friday   | 02:00 - 03:00 PM    | DMP-Room 101           |
-| CPSC 330 T2G | Thursday | 05:00 - 06:00 PM    | MCLD-Room 2012         |
-| CPSC 330 T2H | Friday   | 11:00 - 12:00 PM    | MCLD-Room 2012         |
-| CPSC 330 T2I | Thursday | 01:00 - 02:00 PM    | DMP-Room 101           |
-| CPSC 330 T2J | Thursday | 02:00 - 03:00 PM    | DMP-Room 101           |
-| CPSC 330 T2K | Thursday | 03:00 - 04:00 PM    | SWNG Room 409          |
+| Section | Days     | Time        | Location | TA                       |
+|---------|----------|-------------|----------|--------------------------|
+| D1A     | T and Th | 9:00-10:00  | DMP 201  | Probably cancelled       |
+| D1B     | T and Th | 10:00-11:00 | DMP 201  | Yifei (T) / Joseph (Th)  |
+| D1C     | T and Th | 11:00-12:00 | DMP 201  | Justice (T) / Yifei (Th) |
+| D1E     | W and F  | 9:00-10:00  | DMP 201  | Jun He (W) / Kimia (F)   |
+| D1F     | W and F  | 1:00-2:00   | DMP 201  | Atabak (W) / Shadab (F)  |
 
-Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. Attendance to tutorials is not counted toward your final grade, but is expected to succeed in the course. Participating will allow you to see more examples than what it is possible to cover in class, engage in more personalized discussions with TAs, and providing you with valuable one-on-one time to deepen your understanding of machine learning concepts. 
+Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week.
+Attendance to tutorials is not counted toward your final grade, but is expected to succeed in the course. Participating will allow you to see more examples than what it is possible to cover in class, engage in more personalized discussions with TAs, and providing you with valuable one-on-one time to deepen your understanding of machine learning concepts. 
 
-**Office hours**:
-| Day      | Time                | Location               |
-|----------|---------------------|------------------------|
-| Tuesday  | 9:00 - 10:00 AM     | ORCH-Floor 3 -Room 3018|
-| Tuesday  | 10:00 - 11:00 AM    | SWNG Room 405          |
-| Tuesday  | 01:00 - 02:00 PM    | ORCH-Floor 4 -Room 4074|         
-
-**Note:** Tuesday tutorials have been converted to Office Hours, as they happen to be too early in the week to be effective tutorial sessions. If you are enrolled in one of these tutorial sessions, you are welcome to move to any other tutorial session on Thursday or Friday that fits your schedule. You may also email the course coordinator if you have further questions on this matter. **This is the only exception, other students are expected to attend the tutorial session they are enrolled in to not cause overcrowding.** 
+**Student hours**:
+| Teaching Team member | Day       | Time        | Location |
+|----------------------|-----------|-------------|----------|
+| Dr. Moosvi           | Monday    | 1:00 - 1:30 | DMP 310  |
+| Dr. Moosvi           | Wednesday | 1:00 - 1:30 | DMP 310  |
+| Dr. Moosvi           | Friday    | 1:00 - 1:30 | DMP 310  |
 
 ## Teaching Team
 
-**Instructors**: 
+**Instructor**: 
 
 - [Firas Moosvi](https://firas.moosvi.com), Student Hours: MWF after class, 1:00 - 1:30 PM, DMP 310
 
@@ -101,7 +96,7 @@ By the end of this course, the students should be able to:
 
 The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. The instructors have no control over the situation and I cannot help you bypass the waiting list.
 
-**Because all course material is available to all students, including those on the waitlist, throught this repository, all students are expected to complete all the assignments by the assigned deadline, independently on the date on which they joined the course.** The course moves at a fast pace and the first weeks cover fundamental concepts that will serve you for the entire semester - you do not want to miss them or find yourself racing to catch up. 
+**Because all course material is available to all students, including those on the waitlist, through this repository, all students are expected to complete all the assignments by the assigned deadline, independently on the date on which they joined the course.** The course moves at a fast pace and the first weeks cover fundamental concepts that will serve you for the entire semester - you do not want to miss them or find yourself racing to catch up. 
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
@@ -131,14 +126,19 @@ All students must satisfy ALL conditions to pass the course:
 If a student does not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 in the course.
 In exceptional cases (with approved concessions), passing requirements may be waived at the discretion of the course instructor; if waived, the student will be earn a maximum grade of 50% in the course.
 
-### iClicker 
+### iClicker (not for course credit)
 
-The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. 
+In this version of the course, we will not be awarding points for iClicker questions during lectures.
+This does not mean students are encouraged to miss lectures!
+These questions are critical for making you think and challenge yourself during lectures. 
+They are designed to help and facilitate your learning, so please do make an earnest effort when providing your answers. 
 
+<!--
 To join the iClicker corresponding to your section, use the following links:
 - Section 201: [https://join.iclicker.com/FUYI](https://join.iclicker.com/FUYI)
 - Section 202/203: [https://join.iclicker.com/RITY](https://join.iclicker.com/RITY)
 - Section 204: [https://join.iclicker.com/HTRZ](https://join.iclicker.com/HTRZ)
+-->
 
 ### Assignments
 
@@ -152,10 +152,10 @@ For the grading scheme we wish we could use [this](https://youtu.be/HdHlfiOAJyE?
 
 **Late policy**
 
-Assignments will be due at 11:59 PM on the due date.
+Assignments will be due at 17:59 PM on the due date.
 If you cannot make this due date, you may use a "late token", for example:
 
-If assignment is due on a Monday at 11:59 pm:
+If assignment is due on a Monday at 17:59 PM:
 - Handing it anytime on Tuesday will cost you 1 late token (irrespective of whether it's a holiday).
 - Handing it anytime on Wednesday will cost you 2 late tokens (irrespective of whether it's a holiday).
 
@@ -167,11 +167,12 @@ There is no penalty for using "late tokens", but you will get a mark of 0 on an 
 
 <!-- If you are working in a pair, you both must have late tokens remaining. -->
 
-We will post solutions 48-hours after the due date.
+<!-- We will post solutions 48-hours after the due date. -->
 
 ### Lecture recordings 
 
-This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and associated videos, and talking to your peers. 
+This is an in-person class, and we do not livestream or make recordings available by default.
+If you miss a class, you can catch up by reviewing the lecture notes and associated videos, and talking to your peers. 
 
 ### Use of AI in the course
 
@@ -195,7 +196,8 @@ Closer to the midterm dates, the instructors will communicate more details regar
 
 #### Centre for Accessibility (CfA) Exam Accommodations
 
- Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (CBTF). The CBTF will provide the following accommodations: 
+ Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (CBTF).
+ The CBTF will provide the following accommodations: 
 
 - Extended-time (up to 4x)
 - Distraction-reduced environment
@@ -205,18 +207,20 @@ Closer to the midterm dates, the instructors will communicate more details regar
 
 If you have an accommodation that is not listed above, you will write your assessments with the CfA and will need to book a time by their deadline. Please do not book any assessments with the CfA if you are expected to write in the CBTF, as the CfA will cancel the exam booking and ask you to book it yourself with the CBTF. If you have any concerns about your accommodations being met in the CBTF, please reach out to your Accessibility Advisor.
 
-For more information, [please see the CBTF page](https://cbtf.ubc.ca/students/accommodations).
-
+You are encouraged to see [the CBTF page](https://cbtf.ubc.ca/students/accommodations).
 
 ### Final exam
 
 The final exam is scheduled for the exam period and is likely to be comprehensive, covering the material taught over the course of the semester.
 See the Passing Requirements section for more details about the final exam.
 
+## Schedule
+
+The tentative schedule is [posted here](docs/schedule.md).
+
 ## Academic concessions
 
 UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow.
-
 
 ## Code of conduct
 
