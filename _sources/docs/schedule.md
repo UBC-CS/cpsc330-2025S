@@ -41,23 +41,23 @@ This course will be run in a semi flipped classroom format. There will be pre-wa
 
 - Mon May 12: Intro & Lecture 1
 - Wed May 14: Lectures 2
-- Fri May 16: Lectures 3 & 4 _hw1_
-- Mon May 19: **Holiday** _hw2_
+- Fri May 16: Lectures 3 & 4
+- Mon May 19: **Holiday**
 - Wed May 21: Lectures 5 & 6
-- Fri May 23: Lectures 7 & 8 _hw3_
-- Mon May 26: Lectures 9 & 10 _hw4_
+- Fri May 23: Lectures 7 & 8
+- Mon May 26: Lectures 9 & 10
 - Wed May 28: Review
 	- Midterm 1 May 28-31
 - Fri May 30: Lectures 11
-- Mon June 2: Lectures 12 _hw5_
+- Mon June 2: Lectures 12
 - Wed June 4: Lectures 13 
-- Fri June 6: Lectures 14 & 15 _hw6_
-- Mon June 9: Lectures 16 & 17 _hw7_
+- Fri June 6: Lectures 14 & 15
+- Mon June 9: Lectures 16 & 17
 - Wed June 11: Review
 	- Midterm 2 June 11-14
 - Fri June 13: Lectures 18 & 19
-- Mon June 16: Lectures 20 & 21 _hw8_
-- Wed June 18: Lectures 22 & 23 _hw9_
+- Mon June 16: Lectures 20 & 21
+- Wed June 18: Lectures 22 & 23
 
 ## Deliverable due dates (tentative)
 Usually the homework assignments will be due on Mondays and will be released on Tuesdays (the links below will lead to a "page not found" if the assignment has not been published yet).  
@@ -77,6 +77,7 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | **Midterm 2**  | June 11-14        | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                                                           |
 | hw7            | June 9, 17:59 pm | [GitHub repo](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
 | hw8            | June 16, 17:59 pm | [GitHub repo](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
+| hw9           | June 18, 17:59 pm | [GitHub repo](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
 | **Final exam** | TBA              | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                                                           |
 
 ## Reference Material
