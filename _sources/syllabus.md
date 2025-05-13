@@ -31,11 +31,16 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 Attendance to tutorials is not counted toward your final grade, but is expected to succeed in the course. Participating will allow you to see more examples than what it is possible to cover in class, engage in more personalized discussions with TAs, and providing you with valuable one-on-one time to deepen your understanding of machine learning concepts. 
 
 **Student hours**:
-| Teaching Team member | Day       | Time        | Location |
-|----------------------|-----------|-------------|----------|
-| Dr. Moosvi           | Monday    | 1:00 - 1:30 | DMP 310  |
-| Dr. Moosvi           | Wednesday | 1:00 - 1:30 | DMP 310  |
-| Dr. Moosvi           | Friday    | 1:00 - 1:30 | DMP 310  |
+| Teaching Team member | Day       | Time         | Location                                                                                     |
+|----------------------|-----------|--------------|----------------------------------------------------------------------------------------------|
+| Dr. Moosvi           | Monday    | 1:00 - 1:30  | DMP 310                                                                                      |
+| Dr. Moosvi           | Wednesday | 1:00 - 1:30  | DMP 310                                                                                      |
+| Dr. Moosvi           | Friday    | 1:00 - 1:30  | DMP 310                                                                                      |
+| Niki Duan            | Thursday  | 12:00 - 1:00 | ICCS X139 and [Zoom](https://ubc.zoom.us/j/68405220877?pwd=YvgcbJ7LTKasPmOmohN6RpJ2rq29pg.1) |
+| Shashwat Suri        | Thursday  | 3:00 - 4:00  | TBD and [Zoom](https://ubc.zoom.us/j/62532363200?pwd=xL63j5jT0Ny7vlQqqu0tWblfJbYlC9.1)       |
+| Patrick Cui          | Friday    | 2:00 - 3:00  | ICCS X139 and [Zoom](https://ubc.zoom.us/j/67066786118?pwd=XIECIocA8bK3gtv0Pj0p9xvXbTaJVN.1) |
+| Junhe Cui            | Friday    | 6:00 - 7:00  | TBD and [Zoom](https://ubc.zoom.us/j/66271052141?pwd=kPmQv1OwzuYN7ICYF2cjgYVlYhKFhF.1)       |
+
 
 ## Teaching Team
 
