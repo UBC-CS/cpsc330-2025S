@@ -2,7 +2,7 @@
 
 ## Git 
 
-If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330-2024W1/blob/main/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. 
+If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330-2025S1/blob/main/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. 
 
 Once you have `Git`, go to the directory where you want to do CPSC 330 related work, and clone the course GitHub repository using the following command on your command line. 
 
@@ -115,7 +115,7 @@ We will be using [JupyterLab](https://jupyter.org/) as our main coding environme
 
 5. We are all set! When you want to run the lecture materials or work on your homework, start Jupyter Lab from your cpsc330 environment, as shown below.
 
-    ```(cpsc330) CPSC-M-KVARADA01:cpsc330-2024W1 kvarada$ jupyter lab```
+    ```(cpsc330) CPSC-M-KVARADA01:cpsc330-2025S1 kvarada$ jupyter lab```
 
     Jupyter Lab will be opened in your default browser. Navigate to the appropriate notebook in Jupyter Lab. 
 
