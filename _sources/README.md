@@ -22,4 +22,4 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 * [Gradescope (via Canvas)](https://canvas.ubc.ca)
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 * [Syllabus / administrative info](syllabus.md)
-* [Other course documents](https://github.com/UBC-CS/cpsc330-2024W2/tree/main/docs)
+* [Other course documents](https://github.com/UBC-CS/cpsc330-2025S1/tree/main/docs)

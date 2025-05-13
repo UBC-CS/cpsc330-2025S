@@ -7,7 +7,7 @@ If you want to clone the class GitHub repository and run lecture notebooks local
 Once you have `Git`, go to the directory where you want to do CPSC 330 related work, and clone the course GitHub repository using the following command on your command line. 
 
 ```
-git clone https://github.com/UBC-CS/cpsc330-2024W2.git
+git clone https://github.com/UBC-CS/cpsc330-2025S1.git
 ```
 
 When there are updates in the repository, you can update the local copy using the command below from the directory of the repository. 
