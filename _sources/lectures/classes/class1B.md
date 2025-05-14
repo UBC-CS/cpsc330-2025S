@@ -51,7 +51,7 @@ Below are the assigned videos for this week.
 ## Class Slides
 
 <div>
-<iframe src="../../Class01A.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-02-terminology-decision-trees.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../Class01A.pdf)
+[Download the Slides from today](../../Lec02.pdf)
