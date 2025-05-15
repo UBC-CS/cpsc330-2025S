@@ -12,16 +12,12 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Section      | Day     | Time                | Location              |
 |--------------|---------|---------------------|-----------------------|
-| CPSC 330 201 | Tue/Thu | 9:30 - 10:50 AM     | SWNG-Room 222         |
-| CPSC 330 202 | Tue/Thu | 3:30 - 4:50 PM      | MCML-Room 360         |
-| CPSC 330 203 | Tue/Thu | 5:00 - 6:20 PM      | MCML-Room 360         |
-| CPSC 330 204 | Tue/Thu | 11:00 AM - 12:20 PM | GEOG-Room 212         |
+| CPSC 330 | MWF | 10:00 - 12:50 PM     | DMP 310         |
 
 **Tutorials**:
 
 | Section | Days     | Time        | Location | TA                       |
 |---------|----------|-------------|----------|--------------------------|
-| D1A     | T and Th | 9:00-10:00  | DMP 201  | Probably cancelled       |
 | D1B     | T and Th | 10:00-11:00 | DMP 201  | Yifei (T) / Joseph (Th)  |
 | D1C     | T and Th | 11:00-12:00 | DMP 201  | Justice (T) / Yifei (Th) |
 | D1E     | W and F  | 9:00-10:00  | DMP 201  | Jun He (W) / Kimia (F)   |
