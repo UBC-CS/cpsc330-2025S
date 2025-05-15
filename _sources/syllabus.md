@@ -157,10 +157,10 @@ For the grading scheme we wish we could use [this](https://youtu.be/HdHlfiOAJyE?
 
 **Late policy**
 
-Assignments will be due at 17:59 PM on the due date.
+Assignments will be due at 22:00 PM on the due date.
 If you cannot make this due date, you may use a "late token", for example:
 
-If assignment is due on a Monday at 17:59 PM:
+If assignment is due on a Monday at 22:00 PM:
 - Handing it anytime on Tuesday will cost you 1 late token (irrespective of whether it's a holiday).
 - Handing it anytime on Wednesday will cost you 2 late tokens (irrespective of whether it's a holiday).
 
