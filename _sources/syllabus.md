@@ -144,7 +144,7 @@ To join the iClicker corresponding to your section, use the following links:
 ### Assignments
 
 The plan is that most of the assignments will contribute equally towards the overall Assignments grade, but changes to reflect particularly long or short assignments may be possible.
-We will drop your lowest homework grade. 
+**With the exception of HW5, we will drop your lowest homework grade - all students *must* complete HW5**. 
 Some flexibility in the assignment submissions is allowed (see **Late policy** below). <!--**Outside what is allowed by the late policy, late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted.--> 
 See [this document](docs/homework_instructions.md) for more detailed instructions on submitting homework assignments.
 
