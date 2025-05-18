@@ -77,7 +77,7 @@ Below are the assigned videos for Lecture 6
 
 ## Class Slides
 
-### Lectur 05
+### Lecture 05
 
 <div>
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-05.html" width="100%" height="600px" frameBorder="0"> </iframe>
