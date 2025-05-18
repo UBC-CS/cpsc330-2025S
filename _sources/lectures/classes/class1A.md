@@ -21,7 +21,7 @@ Below are the assigned videos for this week.
 ## Class Slides
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-01-intro" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-01.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec01.pdf)

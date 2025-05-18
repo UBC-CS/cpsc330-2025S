@@ -94,8 +94,18 @@ Below are the assigned videos for Lecture 4
 
 ## Class Slides
 
+### Lecture03
+
 <div>
-<iframe src="../../Class01A.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-03.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../Class01A.pdf)
+[Download the Slides from today](../../files/Lec03.pdf)
+
+### Lecture 04
+
+<div>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-04.html" width="100%" height="600px" frameBorder="0"> </iframe>
+</div>
+
+[Download the Slides from today](../../files/Lec04.pdf)
