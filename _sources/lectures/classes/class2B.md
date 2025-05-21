@@ -8,43 +8,33 @@ We will leave the website open even after the course is over for a reasonable nu
 
 Below are the assigned videos for Lecture 7.
 
-```{dropdown} 1. Data Preprocessing Introduction
+```{dropdown} 1.  Linear Regression
     :class-container: sd-shadow-lg
     :color: primary
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/xx9HlmzORRk?si=tqd8lm6CKZqpfOPi" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/HXd1U2q4VFA?si=VLdYyYsLv_V2SBcL" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 2. Imputation and Scaling 
+```{dropdown} 2. Logistic Regression
     :class-container: sd-shadow-lg
     :color: primary
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/G2IXbVzKlt8?si=9lETfPpcMyxQ7wzN" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/56L5z_t22qE?si=JwEoCuzMm-5dU_l-" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 3. Introduction to Scikit-Learn Pipelines
+```{dropdown} 3. Predicting Probability Scores
     :class-container: sd-shadow-lg
     :color: primary
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/nWTce7WJSd4?si=es2BpevWvFu4tAgt" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 4. One-Hot Encoding
-    :class-container: sd-shadow-lg
-    :color: primary
-    :open:
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/2mJ9rAhMMl0?si=aFdGl8MSW9wnTNog" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/_OAK5KiGLg0?si=VftzdfzDTbHrIcUR" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 ```
 
@@ -58,7 +48,7 @@ Below are the assigned videos for Lecture 8
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/to2mukSyvLk?si=Rmn0xTyPTYsakqo9" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/lMWdHZSZMk8?si=wpvf6uMsMLDMPEBv" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 ```
 
@@ -68,7 +58,7 @@ Below are the assigned videos for Lecture 8
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hteVvLwrWZ4?si=tHTR--qfATp8PFA0" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Z9a9XZ0vQv0?si=Zm3pmjR0Oc6OIPEb" frameborder="0" allow="accelerometer; autoplay="0"; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 ```
 
