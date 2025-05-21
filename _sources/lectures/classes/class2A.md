@@ -48,9 +48,6 @@ Below are the assigned videos for Lecture 5.
 </div>
 ```
 
-[6.1](https://youtu.be/to2mukSyvLk)
-[6.2](https://youtu.be/hteVvLwrWZ4)        
-
 ## Pre-lecture 6 Videos
 
 Below are the assigned videos for Lecture 6
