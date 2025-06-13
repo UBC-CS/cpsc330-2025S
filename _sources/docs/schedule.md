@@ -76,8 +76,8 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw6            | Monday June 9 <s>6</s>, 22:00 pm (*Updated*) | [GitHub repo](https://github.com/new?template_name=hw6&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
 | **Midterm 2**  | June 11-14        | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                                                           |
 | hw7            | Saturday June 14 <s>9</s>, 22:00 pm | [GitHub repo](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
-| hw8            | Monday June 16, 22:00 pm | GitHub repo[](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
-| hw9           | Wednesday June 18, 22:00 pm | GitHub repo[](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
+| hw8            | Monday June 16, 22:00 pm | [GitHub repo](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
+| hw9           | Wednesday June 18, 22:00 pm | [GitHub repo](https://github.com/new?template_name=hw9&template_owner=ubc-cpsc330)       | [Gradescope](https://www.gradescope.ca/courses/27876)                                    |
 | **Final exam** | TBA              | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                                                           |
 
 ## Reference Material
