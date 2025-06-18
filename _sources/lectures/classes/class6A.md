@@ -43,7 +43,7 @@ Below are the assigned videos for Lecture 18.
 ### Lecture 21
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-21.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../files/Lec21.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec21.pdf)
