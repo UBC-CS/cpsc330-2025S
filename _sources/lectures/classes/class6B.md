@@ -34,18 +34,18 @@ Below are the assigned videos for Lecture 18.
 
 ## Class Slides
 
-### Lecture 20
+### Lecture 22 - Ethics
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-20.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="../../files/Lec22.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../files/Lec20.pdf)
+[Download the Slides from today](../../files/Lec22.pdf)
 
-### Lecture 21
+### Lecture 23 - Deployment
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-21.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-24.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../files/Lec21.pdf)
+[Download the Slides from today](../../files/Lec24.pdf)
